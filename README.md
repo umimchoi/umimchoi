@@ -1,0 +1,2 @@
+- 👀 Hi, I’m @umimchoi
+- 🌱 Using namespace ฟหกด่าสว;
